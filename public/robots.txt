@@ -1,0 +1,8 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Allow: /gallery/
+Allow: /raahi-logo-light.png
+
+# Sitemaps
+Sitemap: https://theraahitravels.com/sitemap.xml

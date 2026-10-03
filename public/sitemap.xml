@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage & Core Experience -->
+  <url>
+    <loc>https://theraahitravels.com/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://theraahitravels.com/raahi-logo-light.png</image:loc>
+      <image:title>Raahi Travels - Har Safar, Ek Kahani</image:title>
+      <image:caption>Weekend group trips for solo wanderers from Delhi NCR</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://theraahitravels.com/gallery/batch1-terrace-group.jpg</image:loc>
+      <image:title>Raahi Batch #1 Completed Group Photo</image:title>
+      <image:caption>Neem Karoli Baba Kainchi Dham & Nainital Hills Group Trip</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Kainchi Dham & Nainital Flagship Circuit -->
+  <url>
+    <loc>https://theraahitravels.com/#batches</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://theraahitravels.com/gallery/batch1-kainchidham-prasad.png</image:loc>
+      <image:title>Kainchi Dham Neem Karoli Baba Ashram Darshan</image:title>
+    </image:image>
+  </url>
+
+  <!-- The Experience & Community Vibe -->
+  <url>
+    <loc>https://theraahitravels.com/#vibe</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Real Memories Past Trips Gallery -->
+  <url>
+    <loc>https://theraahitravels.com/#gallery</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://theraahitravels.com/gallery/batch1-rooftop-selfie.jpg</image:loc>
+      <image:title>Mukteshwar Viewpoint Raahi Family Selfie</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://theraahitravels.com/gallery/batch1-dinner-gathering.jpg</image:loc>
+      <image:title>Hillside Resort Dining & Ice Breaking Session</image:title>
+    </image:image>
+  </url>
+
+  <!-- About Raahi Travels -->
+  <url>
+    <loc>https://theraahitravels.com/#about</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Frequently Asked Questions -->
+  <url>
+    <loc>https://theraahitravels.com/#faqs</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
