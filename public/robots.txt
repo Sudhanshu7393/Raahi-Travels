@@ -5,4 +5,4 @@ Allow: /gallery/
 Allow: /raahi-logo-light.png
 
 # Sitemaps
-Sitemap: https://theraahitravels.com/sitemap.xml
+Sitemap: https://raahi-travels-sage.vercel.app/sitemap.xml
